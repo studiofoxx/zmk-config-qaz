@@ -48,7 +48,7 @@
     nav {
             bindings = <
     &kp F1     &kp F2     &kp F3     &kp F4      &kp F5 &kp F6 &kp F7    &kp F8       &kp F9    &kp BSPC
-    &TAB       &kp F10    &kp F11    &kp F12     &none &none &kp LEFT    &kp UP       &kp DOWN  &kp RIGHT
+    &kp TAB       &kp F10    &kp F11    &kp F12     &none &none &kp LEFT    &kp UP       &kp DOWN  &kp RIGHT
     &none                 &none      &none       &none &none &none       &none        &bootloader &sys_reset
     &none      &none      &none         &trans        &kp RET             &bt BT_CLR &bt BT_NXT &bt BT_PRV
             >;
